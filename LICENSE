@@ -1,0 +1,24 @@
+Feather
+Copyright (c) 2026 cooliothe3rdreallycool-tech. All rights reserved.
+
+Feather is free to download and use on your own computers.
+
+Feather is not open source. Without written permission from its author you may not:
+
+  - make your own version of Feather: no forks, rebuilds, remixes, re-skins or other
+    browsers based on Feather's code, design, name or logo;
+  - modify Feather, or share, sell, rehost or bundle Feather or any changed copy of it;
+  - use the Feather name or logo for anything that isn't the official Feather.
+
+Versions of Feather made or changed by anyone else are not endorsed by Feather's author.
+They aren't supported and can't receive Feather's updates, because every official update
+is signed with the author's private key and Feather refuses anything that isn't.
+
+The only official downloads are the releases at
+https://github.com/cooliothe3rdreallycool-tech/feather-browser/releases
+
+Feather is provided "as is", without warranty of any kind. Its author is not liable for any
+damage or loss that comes from using it.
+
+Feather includes parts made by others, which keep their own licenses. See
+THIRD-PARTY-NOTICES.txt.
