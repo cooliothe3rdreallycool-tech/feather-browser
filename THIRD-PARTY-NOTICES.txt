@@ -50,3 +50,13 @@ StevenBlack/hosts (ad blocker list)
 The ad blocker downloads StevenBlack's unified hosts list from
 https://github.com/StevenBlack/hosts when it runs. The list is not included with Feather.
 It is published under the MIT License by Steven Black and its contributors.
+
+-------------------------------------------------------------------------------------------
+EasyList (element hiding)
+-------------------------------------------------------------------------------------------
+
+The ad blocker downloads EasyList from https://easylist.to/ when it runs and uses its
+element-hiding rules to hide leftover ad boxes. The list is not included with Feather.
+EasyList is written by the EasyList authors (https://easylist.to/) and published under
+the GNU General Public License v3 or the Creative Commons Attribution-ShareAlike 3.0
+license.
