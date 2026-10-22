@@ -1,0 +1,37 @@
+﻿name: Broken page
+description: A website doesn't work or looks wrong in Feather (often the ad blocker).
+labels: ["broken page"]
+body:
+  - type: markdown
+    attributes:
+      value: Feather filled in what it knows. Remove anything you don't want to share before you submit. This report is public.
+  - type: input
+    id: url
+    attributes:
+      label: Page address
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong with it?
+      description: "For example: video won't play, a button does nothing, part of the page is missing, an ad still shows."
+    validations:
+      required: true
+  - type: dropdown
+    id: blocker
+    attributes:
+      label: Does it work with the ad blocker switched off for the site?
+      description: Click the shield in the address bar, then "Turn off for this site".
+      options:
+        - "I didn't try"
+        - "Yes, it works with the blocker off"
+        - "No, still broken"
+  - type: input
+    id: details
+    attributes:
+      label: Feather details
+  - type: input
+    id: version
+    attributes:
+      label: Feather version
