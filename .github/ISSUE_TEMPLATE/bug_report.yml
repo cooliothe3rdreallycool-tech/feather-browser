@@ -1,0 +1,32 @@
+﻿name: Bug report
+description: Something in Feather doesn't work the way it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make Feather better! Questions are welcome in the [Q&A forum](https://github.com/cooliothe3rdreallycool-tech/feather-browser/discussions/categories/q-a) instead.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did Feather do instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can it be repeated?
+      placeholder: "1. Open ...\n2. Click ...\n3. ..."
+  - type: input
+    id: version
+    attributes:
+      label: Feather version
+      description: Settings > About Feather
+      placeholder: "0.6.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11"
