@@ -13,6 +13,7 @@ An ultra-light Chromium browser for Windows, about 1.5 MB, with a Pi-hole-style 
 - **Looks good:** 8 themes plus any accent colour, tabs in the title bar, and Windows 11 snap layouts.
 - **Keyboard and screen readers:** F6 and Alt+Shift+T reach every tab and button, and Narrator reads the tabs out.
 - **Safe by default:** HTTPS-only mode, a pop-up blocker, private windows, and signed updates.
+
 ## Download
 
 Get the latest version from **[Releases](https://github.com/cooliothe3rdreallycool-tech/feather-browser/releases/latest)**. Feather keeps itself up to date from there.
